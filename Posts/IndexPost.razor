@@ -1,7 +1,25 @@
 ﻿@page "/"
+@inject IPostService PostService
 
 <h3>IndexPost</h3>
 
+
+@if (Posts == null)
+{
+    <h2>We dont have posts</h2>
+}
+else
+{
+    <h2>We have posts</h2>
+}
+
+
 @code {
+    public List<PostItem> Posts { get; set; }
+
+    protected override async Task OnInitializedAsync()
+    {
+        Posts = await PostService.GetPosts();
+    }
 
 }
