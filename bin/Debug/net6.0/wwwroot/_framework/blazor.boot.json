@@ -196,13 +196,13 @@
       "mscorlib.dll": "sha256-C3gpWQMELcHYfrHU\/1agQUvWTtSNs9Ul2suMxcKFnIc=",
       "netstandard.dll": "sha256-CgGkoZQx73t3qchcsu85kgBcgrjNEOiudArOwKNb18k=",
       "System.Private.CoreLib.dll": "sha256-6nUSjiT7okMlkN897OnDypwppYuK7JxTahOClXkAuwE=",
-      "Kantar_test.dll": "sha256-zmBS7rutq8geW1HKGIYB42LMyPaI7lETkbuN8AVaNRg="
+      "Kantar_test.dll": "sha256-SikeAdGPFEbX+ungVy75xDU9EPrKaklPq4nB0JNpY8E="
     },
     "extensions": null,
     "lazyAssembly": null,
     "libraryInitializers": null,
     "pdb": {
-      "Kantar_test.pdb": "sha256-qfnUFavOCs7D8G6PFXxN9BmglKwopDNFy1mvigP\/imw="
+      "Kantar_test.pdb": "sha256-4GHgZPbJ8bqB4qafan8WTphLKZa7k2kIZZyXvGjWFvU="
     },
     "runtime": {
       "dotnet.6.0.16.45x03c503w.js": "sha256-GT2gK+GjOisRXJY+9yh6H8s6K\/KDIsaFMFIgWvAnttY=",
