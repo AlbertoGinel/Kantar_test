@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "NEf6KJzUI/ntKySP7c8vnI3aV3YSdyVnUmo+xLPVA8I=",
+  "Hash": "k0LblydFEda+YCUmRPGl2lhDjaYxp4ROUvpCgAHBkZg=",
   "Source": "Kantar_test",
   "BasePath": "/",
   "Mode": "Root",
@@ -6798,40 +6798,6 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\agine\\OneDrive\\Escritorio\\My_Webpages\\Blazor\\Kantar_Test\\Kantar_test\\Kantar_test\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Threading.Channels.dll"
-    },
-    {
-      "Identity": "C:\\Users\\agine\\OneDrive\\Escritorio\\My_Webpages\\Blazor\\Kantar_Test\\Kantar_test\\Kantar_test\\obj\\Debug\\net6.0\\scopedcss\\bundle\\Kantar_test.styles.css",
-      "SourceId": "Kantar_test",
-      "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\agine\\OneDrive\\Escritorio\\My_Webpages\\Blazor\\Kantar_Test\\Kantar_test\\Kantar_test\\obj\\Debug\\net6.0\\scopedcss\\bundle\\",
-      "BasePath": "/",
-      "RelativePath": "Kantar_test.styles.css",
-      "AssetKind": "All",
-      "AssetMode": "CurrentProject",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "ScopedCss",
-      "AssetTraitValue": "ApplicationBundle",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\agine\\OneDrive\\Escritorio\\My_Webpages\\Blazor\\Kantar_Test\\Kantar_test\\Kantar_test\\obj\\Debug\\net6.0\\scopedcss\\bundle\\Kantar_test.styles.css"
-    },
-    {
-      "Identity": "C:\\Users\\agine\\OneDrive\\Escritorio\\My_Webpages\\Blazor\\Kantar_Test\\Kantar_test\\Kantar_test\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\Kantar_test.bundle.scp.css",
-      "SourceId": "Kantar_test",
-      "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\agine\\OneDrive\\Escritorio\\My_Webpages\\Blazor\\Kantar_Test\\Kantar_test\\Kantar_test\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\",
-      "BasePath": "/",
-      "RelativePath": "Kantar_test.bundle.scp.css",
-      "AssetKind": "All",
-      "AssetMode": "Reference",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "ScopedCss",
-      "AssetTraitValue": "ProjectBundle",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\agine\\OneDrive\\Escritorio\\My_Webpages\\Blazor\\Kantar_Test\\Kantar_test\\Kantar_test\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\Kantar_test.bundle.scp.css"
     },
     {
       "Identity": "C:\\Users\\agine\\OneDrive\\Escritorio\\My_Webpages\\Blazor\\Kantar_Test\\Kantar_test\\Kantar_test\\wwwroot\\css\\app.css",

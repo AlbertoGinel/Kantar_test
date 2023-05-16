@@ -809,10 +809,7 @@ C:\Users\agine\OneDrive\Escritorio\My_Webpages\Blazor\Kantar_Test\Kantar_test\Ka
 C:\Users\agine\OneDrive\Escritorio\My_Webpages\Blazor\Kantar_Test\Kantar_test\Kantar_test\obj\Debug\net6.0\staticwebassets.pack.json
 C:\Users\agine\OneDrive\Escritorio\My_Webpages\Blazor\Kantar_Test\Kantar_test\Kantar_test\obj\Debug\net6.0\staticwebassets.build.json
 C:\Users\agine\OneDrive\Escritorio\My_Webpages\Blazor\Kantar_Test\Kantar_test\Kantar_test\obj\Debug\net6.0\staticwebassets.development.json
-C:\Users\agine\OneDrive\Escritorio\My_Webpages\Blazor\Kantar_Test\Kantar_test\Kantar_test\obj\Debug\net6.0\scopedcss\Shared\MainLayout.razor.rz.scp.css
-C:\Users\agine\OneDrive\Escritorio\My_Webpages\Blazor\Kantar_Test\Kantar_test\Kantar_test\obj\Debug\net6.0\scopedcss\Shared\NavMenu.razor.rz.scp.css
 C:\Users\agine\OneDrive\Escritorio\My_Webpages\Blazor\Kantar_Test\Kantar_test\Kantar_test\obj\Debug\net6.0\scopedcss\bundle\Kantar_test.styles.css
-C:\Users\agine\OneDrive\Escritorio\My_Webpages\Blazor\Kantar_Test\Kantar_test\Kantar_test\obj\Debug\net6.0\scopedcss\projectbundle\Kantar_test.bundle.scp.css
 C:\Users\agine\OneDrive\Escritorio\My_Webpages\Blazor\Kantar_Test\Kantar_test\Kantar_test\obj\Debug\net6.0\Kantar_test.csproj.CopyComplete
 C:\Users\agine\OneDrive\Escritorio\My_Webpages\Blazor\Kantar_Test\Kantar_test\Kantar_test\obj\Debug\net6.0\Kantar_test.dll
 C:\Users\agine\OneDrive\Escritorio\My_Webpages\Blazor\Kantar_Test\Kantar_test\Kantar_test\obj\Debug\net6.0\refint\Kantar_test.dll

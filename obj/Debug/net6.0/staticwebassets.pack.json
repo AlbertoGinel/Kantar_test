@@ -9,10 +9,6 @@
       "PackagePath": "staticwebassets\\_framework\\blazor.webassembly.js.gz"
     },
     {
-      "Id": "C:\\Users\\agine\\OneDrive\\Escritorio\\My_Webpages\\Blazor\\Kantar_Test\\Kantar_test\\Kantar_test\\obj\\Debug\\net6.0\\scopedcss\\bundle\\Kantar_test.styles.css",
-      "PackagePath": "staticwebassets\\Kantar_test.styles.css"
-    },
-    {
       "Id": "C:\\Users\\agine\\OneDrive\\Escritorio\\My_Webpages\\Blazor\\Kantar_Test\\Kantar_test\\Kantar_test\\wwwroot\\css\\app.css",
       "PackagePath": "staticwebassets\\css\\app.css"
     },

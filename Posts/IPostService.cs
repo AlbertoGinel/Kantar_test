@@ -1,6 +1,7 @@
 ﻿namespace Kantar_test.Posts
 {
-    public class IPostService
+    public interface IPostService
     {
+        Task<List<PostItem>> GetPosts();
     }
 }
