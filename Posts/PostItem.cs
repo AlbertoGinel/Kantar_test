@@ -1,6 +1,6 @@
 ﻿using Microsoft.AspNetCore.Components;
 
-namespace PostsApp.Posts
+namespace Kantar_test.Posts
 {
     public class PostItem
     {
