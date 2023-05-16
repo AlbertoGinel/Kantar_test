@@ -12,18 +12,19 @@ else
     <div class="container">
         <div class="mt-4 mb-4">
 
+            <input @bind=SearchQuery placeholder="Search..." />
 
             <table class="table">
                 <thead>
                     <tr>
                         <th>ID</th>
                         <th>User ID</th>
-                        <th>Title</th>u
+                        <th>Title</th>
                         <th>Body</th>
                     </tr>
                 </thead>
                 <tbody>
-                    @foreach (var post in Posts)
+                    @foreach (var post in FilteredPosts)
                     {
                         <tr>
                             <td>@post.userId</td>
@@ -41,6 +42,19 @@ else
 
 @code {
     public List<PostItem> Posts { get; set; }
+
+    public string SearchQuery { get; set; }
+
+    public List<PostItem> FilteredPosts
+    {
+        get
+        {
+            if (string.IsNullOrWhiteSpace(SearchQuery))
+                return Posts;
+
+            return Posts.Where(post => post.title.Contains(SearchQuery, StringComparison.OrdinalIgnoreCase)).ToList();
+        }
+    }
 
     protected override async Task OnInitializedAsync()
     {
